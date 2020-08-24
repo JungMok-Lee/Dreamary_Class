@@ -8,15 +8,3 @@ label{
 
 }
 
-#logo{
-    display: flex;
-}
-
-#navbar{
-    display:flex;
-    justify-items: space-between;
-}
-
-footer{
-    padding-top:1.5rem;
-}
